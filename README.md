@@ -1,3 +1,4 @@
+# Chinese Credit Report Recognization (Bank of China)
 # 中文征信报告识别（中国银行）
 ### 配置要求：
 - 项目后端基于**python3.7**实现，调用阿里OCR表格识别API
